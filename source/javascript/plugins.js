@@ -67,6 +67,4 @@ jQuery.fn.centerHeight      = function(){
 
 // Place any jQuery/helper plugins in here.
 // @codekit-prepend "vendor/jquery-2.1.3.js";
-// @codekit-prepend "vendor/jquery.mousewheel.js";
-// @codekit-prepend "vendor/jquery.jscrollpane.js";
-// @codekit-append "yourPhoto.js";
+// @codekit-append "mine.js";
